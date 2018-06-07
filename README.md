@@ -5,3 +5,6 @@ assignment 3: https://github.com/Aramdeara1/Assignments/blob/master/assignment3%
 Assignment 4: https://github.com/Aramdeara1/Assignments/blob/master/assignment4%20Aram%20Klijn.ipynb 
 
 Assignment 6: https://github.com/Aramdeara1/Assignments/blob/master/Assignment%206.ipynb
+
+R finals - https://github.com/Aramdeara1/Assignments/blob/master/Exam_student%20r.ipynb
+Python finals - https://github.com/Aramdeara1/Assignments/blob/master/exam_june_7_2018%20Python.ipynb
