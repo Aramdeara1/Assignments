@@ -8,3 +8,6 @@ Assignment 6: https://github.com/Aramdeara1/Assignments/blob/master/Assignment%2
 
 R finals - https://github.com/Aramdeara1/Assignments/blob/master/Exam_student%20r.ipynb
 Python finals - https://github.com/Aramdeara1/Assignments/blob/master/exam_june_7_2018%20Python.ipynb
+
+Python final 21 september 2018: https://github.com/Aramdeara1/Final-exam-21-09-2018/blob/master/exam_Sep_21_2018%20(1).ipynb
+R final 21 September 2018: 
